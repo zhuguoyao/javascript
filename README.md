@@ -1,2 +1,2 @@
-# javascript
-javascript基础知识点
+
+> 力扣的题解记录（JavaScript）
